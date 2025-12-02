@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Mainmenu.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/ScanAr.unity
+    guid: 33a53dd2b3dbb2446afcea71258d0133
+  m_configObjects:
+    com.unity.adaptiveperformance.google.android.provider_settings: {fileID: 11400000, guid: 219e19f025d53e94faffb1aff453e75b, type: 2}
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 067debbe2fc76974e86c1bc5823b5267, type: 2}
+    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000, guid: fb0ac4b378ca0a240bdbbe54c8845a4b, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: c99fdc453a41e264c925d6d85146bf17, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: dad0d4b51504aa547a858022daf97ee6, type: 2}
+  m_UseUCBPForAssetBundles: 0
